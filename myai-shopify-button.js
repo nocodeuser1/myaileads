@@ -1,6 +1,6 @@
 // ══════════════════════════════════════════════════════════════════════════════
-// GHL → SHOPIFY CUSTOMER BUTTON
-// Host this file on GitHub Gist, then use the loader script in GHL
+// myAI → SHOPIFY CUSTOMER BUTTON
+// Host this file on GitHub, then use the loader script in myAI Pipeline
 // ══════════════════════════════════════════════════════════════════════════════
 
 (function() {
@@ -25,7 +25,7 @@
     buttonText: 'View in Shopify',
     
     // Button ID (for preventing duplicates)
-    buttonId: 'ghl-shopify-link-btn'
+    buttonId: 'myai-shopify-link-btn'
   };
 
   // ══════════════════════════════════════════════════════════════════════════════
